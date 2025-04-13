@@ -56,10 +56,4 @@ $ history
 - Signal handling
 - Building extensible parsers for user commands
 
-## 📜 License
 
-This project is open-sourced under the MIT License.
-
----
-
-Let me know if you want badges (e.g., Build, MIT License, C++ version), contribution guidelines, or a project demo GIF!
